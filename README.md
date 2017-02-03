@@ -1,5 +1,5 @@
 # vscode-prettydiff
-Port of the atom-beautify from Atom.io editor.
+Port of atom-beautify from Atom to vscode.
 
 Multi language beautifier for VSCode that uses  [prettydiff](https://github.com/prettydiff/prettydiff) . 
 
