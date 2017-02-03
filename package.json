@@ -2,7 +2,7 @@
     "name": "vscode-prettydiff",
     "displayName": "vscode-prettydiff",
     "description": "PrettyDiff for VSCode ",
-    "version": "0.4.1",
+    "version": "0.6.0",
     "publisher": "HexcodeTechnologies",
     "engines": {
         "vscode": "^1.5.0"
@@ -16,10 +16,10 @@
     "main": "./extension",
     "contributes": {
         "commands": [
-         {
-            "command": "extension.prettyDiff",
-            "title": "Prettify using Prettydiff"
-        }
+            {
+                "command": "extension.prettyDiff",
+                "title": "Prettify using Prettydiff"
+            }
         ]
     },
     "scripts": {
