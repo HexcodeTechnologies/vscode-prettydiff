@@ -1,0 +1,3 @@
+[submodule "libs/prettydiff"]
+	path = libs/prettydiff
+	url = https://github.com/prettydiff/prettydiff
