@@ -2,7 +2,7 @@
     "name": "vscode-prettydiff",
     "displayName": "vscode-prettydiff",
     "description": "PrettyDiff for VSCode ",
-    "version": "0.6.4",
+    "version": "0.6.5",
     "publisher": "HexcodeTechnologies",
     "engines": {
         "vscode": "^1.5.0"
